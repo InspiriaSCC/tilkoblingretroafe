@@ -10,7 +10,7 @@ Lek gjerne videre med koden din etterpå, og test ut nye ting.
 
 ### Steg 1
 Klikk på de tre prikkene ved siden av den oransje ``||Download||``-knappen nede i venstre hjørne på skjermen.
-Om menyen som kommer opp ser ut slik som på bildet, trenger du ikke å gjøre noe mer.
+Om menyen som kommer opp ser ut slik som på bildet (Klikk på lyspæra nede til venstre under denne teksten), trenger du ikke å gjøre noe mer.
 Da kjenner PCen og MakeCode konsollet fra før, og du kan bare gå ut av denne instruksjonen og trykke på ``||Downlad||`` for å laste ned koden din til konsollet.
 Om det ser annerledes ut, følger du instruksjonen videre.
 ![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect2.jpg)
@@ -19,7 +19,7 @@ Om det ser annerledes ut, følger du instruksjonen videre.
 ### Steg 2
 Klikk på de tre prikkene ved siden av den oransje ``||Download||``-knappen nede i venstre hjørne på skjermen.
 Klikk på <b>Choose hardware</b>.
-(Du kan se hvor du skal trykke om du trykker på lyspæren ved siden av denne teksten)
+(Du kan se hvor du skal trykke om du trykker på lyspæren under denne teksten)
 
 ![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect3.jpg)
 
@@ -33,7 +33,7 @@ Nå må du hjelpe MakeCode Arkade å finne ditt konsoll på PCen.
 Trykk på de tre prikkene ved siden av ``||Download||`` på nytt.
 Velg <b>Connect device</b> øverst på listen.
 Klikk "Connect device" nede i høyre hjørnet på vinduet som popper opp.
-Du får nå opp et vindu en liste over tilgjengelige konsoller av riktig type.
+Du får nå opp et vindu med en liste over tilgjengelige konsoller av riktig type.
 Klikk først på "Arcade" øverst i listen, så linjen blir blå.
 Klikk så på "Koble til". Nå er du koblet til konsollet, og kan laste ned filer direkte ved å klikke på ``||Download||``.
 ![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect5.jpg)
