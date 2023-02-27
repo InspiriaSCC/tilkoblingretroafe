@@ -21,12 +21,12 @@ Klikk på de tre prikkene ved siden av den oransje ``||Download||``-knappen nede
 Klikk på <b>Choose hardware</b>.
 (Du kan se hvor du skal trykke om du trykker på lyspæren under denne teksten)
 
-![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect3.jpg)
+![Tilkobling steg 2](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect3.jpg)
 
 ### Steg 3
 Finn bildet av konsollet du bruker. Konsollet heter "Retro Arcade for Education" og er lyseblått på bildet, akkurat som det du har foran deg.
 Klikk på bildet. Når du har gjort det, vet MakeCode Arcade hvilken konsolltype det skal se etter.
-![Tilkobling steg 2](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect4.jpg)
+![Tilkobling steg 3](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect4.jpg)
 
 ### Steg 4
 Nå må du hjelpe MakeCode Arkade å finne ditt konsoll på PCen.
@@ -36,8 +36,9 @@ Klikk "Connect device" nede i høyre hjørnet på vinduet som popper opp.
 Du får nå opp et vindu med en liste over tilgjengelige konsoller av riktig type.
 Klikk først på "Arcade" øverst i listen, så linjen blir blå.
 Klikk så på "Koble til". Nå er du koblet til konsollet, og kan laste ned filer direkte ved å klikke på ``||Download||``.
-![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect5.jpg)
-![Tilkobling steg 1](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect6.jpg)
+![Tilkobling steg 4](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect5.jpg)
+![Tilkobling steg 4](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect6.jpg)
+![Tilkobling steg 4](https://raw.githubusercontent.com/InspiriaSCC/energispillet/master/assets/ArcadeConnect7.jpg)
 
 
 
